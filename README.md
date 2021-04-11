@@ -12,13 +12,13 @@ These systems are beneficial for organizations that collect data from large numb
 **Count of movies VS TV-shows**
 ![](https://github.com/YashviPipaliya/-CSE523-Machine-Learning-Abraca-data/blob/main/Results/EDA/Count%20of%20movies%20VS%20TV-shows.PNG)
 
-Distribution of content uploaded
+**Distribution of content uploaded**
 ![](https://github.com/YashviPipaliya/-CSE523-Machine-Learning-Abraca-data/blob/main/Results/EDA/Distribution%20of%20content%20uploaded.PNG)
 
-Movie Rating Analysis
+**Movie Rating Analysis**
 ![](https://github.com/YashviPipaliya/-CSE523-Machine-Learning-Abraca-data/blob/main/Results/EDA/Movie%20Rating%20Analysis.PNG)
 
-Types of Genres
+**Types of Genres**
 ![](https://github.com/YashviPipaliya/-CSE523-Machine-Learning-Abraca-data/blob/main/Results/EDA/Types%20of%20Genres.PNG)
 
 
