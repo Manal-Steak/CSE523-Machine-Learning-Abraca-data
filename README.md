@@ -9,7 +9,7 @@ These systems are beneficial for organizations that collect data from large numb
 
 # Exploratory Data Analysis
 
-Count of movies VS TV-shows
+**Count of movies VS TV-shows**
 ![](https://github.com/YashviPipaliya/-CSE523-Machine-Learning-Abraca-data/blob/main/Results/EDA/Count%20of%20movies%20VS%20TV-shows.PNG)
 
 Distribution of content uploaded
